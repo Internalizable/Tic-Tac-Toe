@@ -1,0 +1,3 @@
+name: Tictactoe
+version: ${project.version}
+main: me.elietgm.tictactoe.Tictactoe
